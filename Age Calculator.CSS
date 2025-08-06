@@ -1,0 +1,36 @@
+      body {
+height: 100vh;
+margin: 0;
+font-family: sans-serif;
+background: #f0f4f8;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box {
+background: #ffffff;
+padding: 16px;
+border-radius: 10px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+width: 260px;
+box-sizing: border-box;
+text-align: center;
+}
+input[type="date"] {
+padding: 8px;
+width: 100%;
+font-size: 14px;
+border: 1px solid #cccccc;
+border-radius: 6px;
+margin-bottom: 12px;
+box-sizing: border-box;
+}
+.result {
+font-size: 14px;
+color: #1e293b;
+background: #f9fafb;
+border: 1px solid #e5e7eb;
+border-radius: 6px;
+padding: 8px;
+}  
+   
